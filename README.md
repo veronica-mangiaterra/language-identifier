@@ -1,4 +1,4 @@
-LANGUAGE IDENTIFIER
+LANGUAGE IDENTIFIER (Project for 'Computational skills for text analysis' class at UniTrento, MSc in Cognitive Science)
     The aim of this project is to train a classifier that identifies in which language a text is written.
     The work is organized following these steps:
     1. Scraping,
